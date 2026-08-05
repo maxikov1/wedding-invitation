@@ -999,3 +999,15 @@ transform:scale(1.08);
 box-shadow:0 0 25px #d4af37;
 
 }
+
+.left-paragraph {
+    position: absolute;
+    left: 30px;
+    top: 100px;
+    width: 300px;
+
+    direction: rtl;
+    text-align: right;
+
+    font-family: 'Cairo', sans-serif;
+}
