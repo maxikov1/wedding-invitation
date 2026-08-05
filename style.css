@@ -49,6 +49,17 @@ p {
 
 }
 
+.left-paragraph {
+    text-align: Left;
+    left: 30px;
+    top: 100px;
+    width: 300px;
+    font-size: 20px;
+    line-height: 2;
+
+    direction: rtl;
+    text-align: right;
+}
 
 
 /* =====================
@@ -1000,14 +1011,3 @@ box-shadow:0 0 25px #d4af37;
 
 }
 
-.left-paragraph {
-    position: absolute;
-    left: 30px;
-    top: 100px;
-    width: 300px;
-
-    direction: rtl;
-    text-align: right;
-
-    font-family: 'Cairo', sans-serif;
-}
