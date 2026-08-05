@@ -51,8 +51,6 @@ p {
 
 .left-paragraph {
     text-align: Left;
-    left: 30px;
-    top: 100px;
     width: 300px;
     font-size: 20px;
     line-height: 2;
